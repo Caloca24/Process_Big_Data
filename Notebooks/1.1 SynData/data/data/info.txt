@@ -1,1 +1,0 @@
-Carpeta de las imágenes, archivos y base de datos de entrebamiento y para la cama de pruebas
